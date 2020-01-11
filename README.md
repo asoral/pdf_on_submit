@@ -9,7 +9,7 @@ All can be turned off via `PDF on Submit Settings`.
 
 ```bash
 cd frappe-bench
-bench get-app https://github.com/alyf-de/pdf_on_submit.git
+bench get-app https://github.com/tueit/pdf_on_submit.git
 bench --site erp.my-company.com install-app pdf_on_submit
 ```
 
